@@ -1,7 +1,7 @@
 {
 
-	"short_name": "short_name",
-	"name": "name",
+	"short_name": "PDS",
+	"name": "PDS",
 	"display": "standalone",
 	"start_url": "index.html",
 	"icons": [

@@ -1,6 +1,6 @@
-var CACHE_NAME = 'pwa-sample';
+var CACHE_NAME = 'pds';
 var urlsToCache = [
-	'/temp/',
+	'/pds/',
 ];
 self.addEventListener('install', function(event) {
 	event.waitUntil(
